@@ -2,7 +2,7 @@
 
 This project is a responsive, fully-typed React application that fetches and displays a list of e-commerce products. It demonstrates core React concepts including state management, side effects, asynchronous data fetching, and component composition using TypeScript and Tailwind CSS.
 
-## 🚀 Features
+## Features
 
 - **Asynchronous Data Fetching:** Integrates with a mock API to fetch product data dynamically.
 - **Robust State Management:** Handles `loading`, `error`, and `success` states gracefully to ensure a smooth user experience.
@@ -10,14 +10,14 @@ This project is a responsive, fully-typed React application that fetches and dis
 - **Reusable UI Components:** Includes a modular `ProductCard` component designed for easy reuse and maintenance.
 - **Modern Styling:** Styled with Tailwind CSS for a fully responsive, grid-based layout with hover effects and clean typography.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React 18
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Data Fetching:** Fetch API / Axios (via `product.service`)
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
